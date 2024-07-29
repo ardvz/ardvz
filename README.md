@@ -46,7 +46,7 @@
   📧 Email: <a href="mailto:support@outlinkstore.com">support@outlinkstore.com</a><br>
   🌐 Website: <a href="https://outlinkstore.com">https://outlinkstore.com</a><br>
   🐦 Twitter: <a href="https://outlinkstore.com/instagram">@ardvz_</a><br>
-  <img src="https://icon-icons.com/downloadimage.php?id=62756&root=729/PNG/512/&file=whatsapp_icon-icons.com_62756.png" width="10px"/> WhatsApp: <a href="https://outlinkstore.com/whatsapp">+62 81775095533</a>
+  <img src="https://icon-icons.com/downloadimage.php?id=62756&root=729/PNG/512/&file=whatsapp_icon-icons.com_62756.png" width="12px"/> WhatsApp: <a href="https://outlinkstore.com/whatsapp">+62 81775095533</a>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
