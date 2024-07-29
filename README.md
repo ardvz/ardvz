@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm [Nama Kamu]</h1>
+<h1 align="center">Hi there 👋, I'm Shirayuki</h1>
 
 <p align="center">
   <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner" width="100%">
 </p>
 
 <p align="center">
-  🌍 Living in <strong>[Lokasi Kamu]</strong> | 🧑‍💻 Passionate Developer | 🚀 Full-Stack Developer at <strong>[Nama Perusahaan]</strong> | 🎮 Game Server Hosting Expert at <strong>OutlinkStore</strong>
+  🌍 Living in <strong>Jombang, Indonesia</strong> | 🧑‍💻 Passionate Developer | 🚀 Discord Developer at <strong>OutlinkStore</strong> | 🎮 Game Server Hosting Expert at <strong>OutlinkStore</strong>
 </p>
 
 <h2 align="center">About Me</h2>
