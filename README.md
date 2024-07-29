@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<h2 style="font-weight: bold;">Currently Studying</h2>
+<h2 style="font-weight: bold;">Social Media</h2>
 <div>
   <a href="https://outlinkstore.com/discord" target="_blank">
   <img src=https://img.shields.io/badge/Discord-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=discord&logoColor=000000&labelColor=7d9cc4 alt=discord style="margin-bottom: 5px;" />
