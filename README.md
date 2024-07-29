@@ -39,10 +39,17 @@
   <img src="https://img.shields.io/badge/Source%20Code-Pterodactyl%20Discord%20Bot-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logoColor=000000&labelColor=black" alt="Source Code Pterodactyl Discord Bot" style="margin-bottom: 5px;" />
 </div>
 
-<h2 style="font-weight: bold;">Social Media</h2>
+<h2 style="font-weight: bold;">Discord Server</h2>
 <div>
   <a href="https://outlinkstore.com/discord" target="_blank">
-  <img src=https://img.shields.io/badge/Discord-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=discord&logoColor=000000&labelColor=7d9cc4 alt=discord style="margin-bottom: 5px;" />
+  <img src="https://discord.com/api/guilds/1248395410683203586/widget.png?style=banner4">
+  </a>
+</div>
+
+<h2 style="font-weight: bold;">Social Media</h2>
+<div>
+  <a href="https://outlinkstore.com/" target="_blank">
+  <img src=https://img.shields.io/badge/Website-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=website&logoColor=000000&labelColor=7d9cc4 alt=website style="margin-bottom: 5px;" />
   </a>
   <a href="https://outlinkstore.com/instagram" target="_blank">
   <img src=https://img.shields.io/badge/Instagram-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=instagram&logoColor=000000&labelColor=7d9cc4 alt=instagram style="margin-bottom: 5px;" />
