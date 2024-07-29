@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
+
 <h2 style="font-weight: bold;">Currently Studying</h2>
 <div>
   <a href="https://nodejs.org/" target="_blank">
@@ -30,3 +32,14 @@
   <img src=https://img.shields.io/badge/WhatsApp-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=7d9cc4 alt=whatsapp style="margin-bottom: 5px;" />
   </a>
 </div>
+
+<style>
+  .no-link {
+    pointer-events: none;
+    opacity: 0.5;
+  }
+
+  .with-link {
+    pointer-events: auto;
+  }
+</style>
