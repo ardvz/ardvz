@@ -1,59 +1,26 @@
-<h1 align="center">Hi there 👋, I'm Shirayuki</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Firdaus Ardiansyah</h1>
+<h3 align="center">Independent Discord Bot Developer from Indonesia</h3>
 
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner" width="100%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardvz&label=Profile%20views&color=0e75b6&style=flat" alt="ardvz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardvz" alt="ardvz" /></a> </p>
+
+- 🌱 I’m currently learning **PHP, HTML**
+
+- 💬 Ask me about **Node.Js, MongoDB**
+
+- 📫 How to reach me **support@outlinkstore.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ardvz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ardvz_" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  🌍 Living in <strong>Jombang, Indonesia</strong> | 🧑‍💻 Passionate Developer | 🚀 Discord Developer at <strong>OutlinkStore</strong> | 🎮 Game Server Hosting Expert at <strong>OutlinkStore</strong>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<h2 align="center">About Me</h2>
-<p align="center">
-  I'm a dedicated developer with a passion for creating dynamic and interactive web applications. I have a strong background in both front-end and back-end development, and I enjoy working on innovative projects that challenge my skills and knowledge.
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardvz&show_icons=true&locale=en&layout=compact" alt="ardvz" /></p>
 
-<h2 align="center">🛠️ Keahlian</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://via.placeholder.com/64.png?text=JavaScript" alt="JavaScript" width="48" height="48" />
-      <br /><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://via.placeholder.com/64.png?text=HTML" alt="HTML" width="48" height="48" />
-      <br /><strong>HTML</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://via.placeholder.com/64.png?text=CSS" alt="CSS" width="48" height="48" />
-      <br /><strong>MongoDB</strong>
-    </td>
-  </tr>
-</table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardvz&show_icons=true&locale=en" alt="ardvz" /></p>
 
-<h2 align="center">🔧 Skills</h2>
-<p align="center">
-  <strong>Programming:</strong> JavaScript, PHP, Python<br>
-  <strong>Front-End:</strong> React, Vue.js, SASS<br>
-  <strong>Back-End:</strong> Node.js, Express, Laravel<br>
-  <strong>Databases:</strong> MongoDB, MySQL<br>
-  <strong>Cloud:</strong> AWS, Azure<br>
-  <strong>Tools:</strong> Git, Docker, Webpack
-</p>
-
-<h2 align="center">📬 Contact Me</h2>
-<p align="center">
-  📧 Email: <a href="mailto:support@outlinkstore.com">support@outlinkstore.com</a><br>
-  🌐 Website: <a href="https://outlinkstore.com">https://outlinkstore.com</a><br>
-  🐦 Twitter: <a href="https://outlinkstore.com/instagram">@ardvz_</a><br>
-  <img src="https://icon-icons.com/downloadimage.php?id=62756&root=729/PNG/512/&file=whatsapp_icon-icons.com_62756.png" width="11px"/> WhatsApp: <a href="https://outlinkstore.com/whatsapp">+62 81775095533</a>
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardvz&theme=radical" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  Thanks for visiting my profile! Feel free to connect with me!
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardvz&" alt="ardvz" /></p>
