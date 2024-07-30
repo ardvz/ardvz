@@ -34,9 +34,9 @@
 
 <h2 style="font-weight: bold;">My Project</h2>
 <div>
-  <img src="https://img.shields.io/badge/Source%20Code-Midtrans%20Discord%20Bot-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logoColor=000000&labelColor=black" alt="Source Code Pterodactyl Discord Bot" style="margin-bottom: 5px;" /><br>
-  <img src="https://img.shields.io/badge/Source%20Code-Xendit%20Discord%20Bot-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logoColor=000000&labelColor=black" alt="Source Code Pterodactyl Discord Bot" style="margin-bottom: 5px;" /><br>
-  <img src="https://img.shields.io/badge/Source%20Code-Pterodactyl%20Discord%20Bot-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logoColor=000000&labelColor=black" alt="Source Code Pterodactyl Discord Bot" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Discord_Bot-Midtrans_Payment_Gateway-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logoColor=000000&labelColor=black" alt="Source Code Pterodactyl Discord Bot" style="margin-bottom: 5px;" /><br>
+  <img src="https://img.shields.io/badge/Discord_Bot-Xendit_Payment_Gateway-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logoColor=000000&labelColor=black" alt="Source Code Pterodactyl Discord Bot" style="margin-bottom: 5px;" /><br>
+  <img src="https://img.shields.io/badge/Discord_Bot-Pterodactyl_Manager-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logoColor=000000&labelColor=black" alt="Source Code Pterodactyl Discord Bot" style="margin-bottom: 5px;" />
 </div>
 
 <h2 style="font-weight: bold;">Discord Server</h2>
