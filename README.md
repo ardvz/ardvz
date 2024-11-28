@@ -52,7 +52,4 @@
   <a href="https://www.instagram.com/outlinkstore" target="_blank">
   <img src=https://img.shields.io/badge/Instagram-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=instagram&logoColor=000000&labelColor=7d9cc4 alt=instagram style="margin-bottom: 5px;" />
   </a>
-  <a href="https://discord.com/invite/NVqdc8uB83" target="_blank">
-  <img src=https://img.shields.io/badge/Discord%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=7d9cc4 alt=whatsapp style="margin-bottom: 5px;" />
-  </a>
 </div>
