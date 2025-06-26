@@ -1,4 +1,4 @@
-![header](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+![banner](https://cdn.hostgate.my.id/uploads/1/WWPtoaFddzYIpDrBvmMJFKSeb.webp)
 
 <h2 style="font-weight: bold;">GitHub Statistics</h2>
 <div>
