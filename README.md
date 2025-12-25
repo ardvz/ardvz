@@ -36,3 +36,18 @@ I’m Shirayuki, a Management student at Universitas Negeri Surabaya with a stro
   <img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=0AA0FF" />
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
+
+---
+
+### Connect with Me
+<p>
+  <a href="https://github.com/ardvz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/cgFE9bq2J6">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ardvz_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
