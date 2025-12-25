@@ -4,7 +4,7 @@
 
 ### About Me
 
-I’m Shirayuki, a Management student at Universitas Negeri Surabaya with a strong passion for technology, and I spend my free time coding — especially building Discord bots and developing websites to continuously learn, improve, and explore new ideas.
+I’m Shirayuki, a Management student at Universitas Negeri Surabaya with a strong passion for technology, and I spend my free time coding, especially building Discord bots and developing websites to continuously learn, improve, and explore new ideas.
 <p>
   <img src="https://img.shields.io/github/followers/ardvz?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/ardvz?label=Stars&style=for-the-badge" />
