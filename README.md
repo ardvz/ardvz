@@ -35,6 +35,8 @@ I’m Shirayuki, a Management student at Universitas Negeri Surabaya with a stro
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=0AA0FF" />
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeidiSQL-000000?style=for-the-badge&logo=heidisql&logoColor=white" />
 </p>
 
 ---
